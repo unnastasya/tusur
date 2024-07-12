@@ -1,0 +1,57 @@
+{
+    "publishingHouses": [
+        {
+            "code": "123",
+            "name": "Издательство №1"
+        },
+        {
+            "code": "162",
+            "name": "Издательство №2"
+        },
+        {
+            "code": "294",
+            "name": "Издательство №3"
+        }
+    ],
+    "books": [
+        {
+            "code": 0,
+            "publishingHousesCode": "123",
+            "name": "name",
+            "year": 2001,
+            "booksNumber": 22
+        },
+        {
+            "code": 1,
+            "publishingHousesCode": "162",
+            "name": "name",
+            "year": 2001,
+            "booksNumber": 23
+        },
+        {
+            "code": 2,
+            "publishingHousesCode": "294",
+            "name": "name",
+            "year": 2001,
+            "booksNumber": 24
+        }
+    ],
+    "doneBooks": [
+        {
+            "id": 0,
+            "idNumber": "idNumber",
+            "name": "name",
+            "fio": "fio",
+            "dateOfIssue": "02.03.2024",
+            "dateOfReturn": "12.03.2024"
+        },
+        {
+            "id": 1,
+            "idNumber": "idNumber",
+            "name": "name",
+            "fio": "fio",
+            "dateOfIssue": "02.03.2024",
+            "dateOfReturn": "12.03.2024"
+        }
+    ]
+}
